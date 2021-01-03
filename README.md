@@ -12,6 +12,6 @@
 <a href="https://linkedin.com/in/vishal2376" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishal2376" height="30" width="40" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal2376&show_icons=true&locale=en&layout=compact" alt="vishal2376" /></p>
+<p align="center"><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal2376&show_icons=true&locale=en&layout=compact" alt="vishal2376" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal2376&show_icons=true&locale=en" alt="vishal2376" /></p
