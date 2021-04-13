@@ -10,6 +10,8 @@
 <a href="https://twitter.com/vishal2376" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vishal2376" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishal2376" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishal2376" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal_2376" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vishal_2376" height="30" width="40" /></a>
+<a href="https://t.me/vishal2376" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="vishal2376" height="30" width="40" /></a> 
+ 
 </p>
 
 <!--
