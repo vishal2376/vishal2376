@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 Checout my Portfolio at [Website(Coming soon)]()
+- 👨‍💻 Checkout my Portfolio at [Website(Coming soon)]()
 
 - 💬 Ask me about **Android, C++, Python, Blender, Unity**
 
