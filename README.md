@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<p align="center">
+<img align="center" alt="coding" width="170" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishal2376&label=Profile%20views&color=0e75b6&style=flat" alt="vishal2376" /> </p>
+<h1 align="center">Hi 👋, I'm Vishal Singh</h1>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishal2376&label=Profile%20views&color=5689f5&style=for-the-badge" alt="vishal2376" /> </p>
 
 - 🌱 I’m currently learning **Android Development**
 
