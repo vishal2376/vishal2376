@@ -36,4 +36,4 @@
 </p>
 
 
-[![Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=vishal2376&hide_border=true&theme=tokyo-night)](https://github.com/vishal2376)
+[![Vishal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishal2376&hide_border=true&theme=tokyo-night)](https://github.com/vishal2376)
