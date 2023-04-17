@@ -10,7 +10,7 @@
 
 - 👨‍💻 Checkout my Portfolio at [Website(Coming soon)]()
 
-- 💬 Ask me about **Android, C++, Python, Blender, Linux**
+- 💬 Ask me about **Android, C++, Blender, Linux**
 
 <br>
 <h3 align="center">📫 Reach out to me on</h3>
