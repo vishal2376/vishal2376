@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishal2376&label=Profile%20views&color=5689f5&style=for-the-badge" alt="vishal2376" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 Checkout my Portfolio at [Website(Coming soon)]()
 
