@@ -16,7 +16,8 @@
 
 - 💬 Ask me about **Android, C++, Blender, Linux**
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
 <h3 align="center">📫 Reach out to me on</h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/vishal2376"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,6 +46,6 @@
    <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal2376&theme=tokyonight" />
 
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 <!-- [![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal2376&hide_border=true&theme=tokyo-night)](https://github.com/vishal2376) -->
 
