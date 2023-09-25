@@ -35,9 +35,16 @@
 
 ## 📈 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishal2376&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal2376&hide_border=true&theme=tokyonight" />
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishal2376&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishal2376&theme=tokyonight" />
 </p>
 
+<div align="center">
 
-[![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal2376&hide_border=true&theme=tokyo-night)](https://github.com/vishal2376)
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal2376&theme=tokyonight" />
+
+</div>
+
+<!-- [![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal2376&hide_border=true&theme=tokyo-night)](https://github.com/vishal2376) -->
+
