@@ -30,7 +30,7 @@
 
 <h3 align="center">💰 Support </h3>
 <p align="center">
-  <a target="_blank"href="https://buymeacoffee.com/vishal2376"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000?style=for-the-badge&logo=buy-me-a-coffee" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://buymeacoffee.com/vishal2376"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://paypal.me/vishal2376"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ko-fi.com/vishal2376"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
