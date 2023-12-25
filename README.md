@@ -28,12 +28,6 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal2376&theme=tokyonight&no-frame=true" alt="vishal2376" /></a> </p> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-<h3 align="center">💰 Support </h3>
-<p align="center">
-  <a href="https://ko-fi.com/vishal2376"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/vishal2376"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://paypal.me/vishal2376"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 ## 👨‍💻 Tools & Platforms
 <p align="center"> 
@@ -78,6 +72,12 @@
 
 
 
+<h3 align="center">💰 Support </h3>
+<p align="center">
+  <a href="https://ko-fi.com/vishal2376"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/vishal2376"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://paypal.me/vishal2376"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <!-- [![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal2376&hide_border=true&theme=tokyo-night)](https://github.com/vishal2376) -->
 
