@@ -10,6 +10,8 @@
 
 </div>
 
+- 🔭 I’m currently working on [Snaptick](https://github.com/vishal2376/snaptick) (Checkout daily progress on [Twitter](https://twitter.com/vishal2376))
+
 - 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 Checkout my Portfolio at [Website(Coming soon)]()
