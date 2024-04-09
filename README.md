@@ -12,12 +12,27 @@
 
 - 🔭 I’m currently working on [Snaptick](https://github.com/vishal2376/snaptick) (Checkout daily progress on [Twitter](https://twitter.com/vishal2376))
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Rust Language**
 
 - 👨‍💻 Checkout my Portfolio at [Website(Coming soon)]()
 
 - 💬 Ask me about **Android, C++, Blender, Linux**
 <br>
+
+<h3 align="center"> ❤️ Support me</h3>
+<p align="center">
+    <a href="https://nowpayments.io/donation?api_key=J8D6KV4-FJ7M181-QKRCGV3-6MMDNZT&source=lk_donation&medium=referral" target="_blank">
+     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" width="150px" alt="Crypto donation button by NOWPayments">
+    </a>
+</p>
+<p align="center">
+  <a href="https://ko-fi.com/vishal2376"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://buymeacoffee.com/vishal2376"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://paypal.me/vishal2376"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
 <h3 align="center">📫 Reach out to me on</h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/vishal2376"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,6 +44,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal2376&theme=tokyonight&no-frame=true" alt="vishal2376" /></a> </p> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
 
 
 ## 👨‍💻 Tools & Platforms
@@ -73,13 +89,6 @@
 </div>
 
 
-
-<h3 align="center">💰 Support </h3>
-<p align="center">
-  <a href="https://ko-fi.com/vishal2376"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/vishal2376"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://paypal.me/vishal2376"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 <!-- [![Vishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishal2376&hide_border=true&theme=tokyo-night)](https://github.com/vishal2376) -->
 
