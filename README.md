@@ -10,7 +10,7 @@
 
 </div>
 
-- 🔭 I’m currently working on [Snaptick](https://github.com/vishal2376/snaptick) (Checkout daily progress on [Twitter](https://twitter.com/vishal2376))
+- 🔭 I’m currently working on [Scroll Block](https://github.com/vishal2376/scroll-block) (Checkout daily progress on [Twitter](https://twitter.com/vishal2376))
 
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 
