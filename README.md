@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Kotlin Multiplatform(KMP)**
 
-- 👨‍💻 Checkout my Portfolio at [vishal2376.me](https://vishal2376.me)
+- 👨‍💻 Checkout my Portfolio at [vishal2376.github.io](https://vishal2376.github.io)
 
 - 💬 Ask me about **Android, C++, Blender, Linux**
 <br>
