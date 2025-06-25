@@ -10,7 +10,7 @@
 
 </div>
 
-- 🔭 I’m currently working on [Snaptick](https://github.com/vishal2376/snaptick)
+- 🔭 I’m currently working on [Belleza - Animation library](https://github.com/vishal2376/belleza)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform(KMP)**
 
