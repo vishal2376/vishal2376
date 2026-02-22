@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on [Belleza - Animation library](https://github.com/vishal2376/belleza)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform(KMP)**
+- 🌱 I’m currently learning **Android App Hacking**
 
 - 👨‍💻 Checkout my Portfolio at [vishal2376.github.io](https://vishal2376.github.io)
 
-- 💬 Ask me about **Android, C++, Blender, Linux**
+- 💬 Ask me about **Android, KMP, C++, Blender, Linux**
 <br>
 
 <h3 align="center"> ❤️ Support me</h3>
