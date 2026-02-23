@@ -72,14 +72,14 @@
 
 ## 📈 Stats
 <p align="center">
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishal2376&theme=tokyonight" />
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishal2376&theme=aura" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishal2376&theme=tokyonight" />
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishal2376&theme=aura" />
 </p>
 
 <div align="center">
 
-   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal2376&theme=tokyonight" />
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishal2376&theme=aura" />
 
 </br>
 </br>
